@@ -1,0 +1,21 @@
+ol{
+    background-color: #ff9999;
+    padding: 20px;
+}
+
+ul{
+    background-color: #3399ff;
+    padding: 20px;
+}
+ol li{
+    background-color: #ffe5e5;
+    color: darkred;
+    padding: 5px;
+    margin-left: 35px;
+    }
+
+    ul li{
+        background-color: #CCE5FF;
+        color: darkblue;
+        margin: 5px;
+}
